@@ -1,0 +1,145 @@
+The command line argument(s) was BankTransIn.txt
+Printing Transaction History for: Cash Johnny By Fund
+Money Market: $470
+Type: D Acc#: 1001 Fund: 0 Amount: 542
+Type: W Acc#: 1001 Fund: 0 Amount: 72
+Prime Money Market: $3042
+Type: D Acc#: 1001 Fund: 1 Amount: 1542
+Type: D Acc#: 1001 Fund: 1 Amount: 1500
+Long-Term Bond: $10442
+Type: D Acc#: 1001 Fund: 2 Amount: 5442
+Type: D Acc#: 1001 Fund: 2 Amount: 5000
+Short-Term Bond: $14540
+Type: D Acc#: 1001 Fund: 3 Amount: 7540
+Type: D Acc#: 1001 Fund: 3 Amount: 7000
+500 Index Fund: $0
+Capital Value Fund: $54
+Type: D Acc#: 1001 Fund: 5 Amount: 54
+Growth Equity Fund: $15053
+Type: D Acc#: 1001 Fund: 6 Amount: 7542
+Type: D Acc#: 1001 Fund: 6 Amount: 7576
+Type: W Acc#: 1001 Fund: 6 Amount: 65
+Growth Index Fund: $10931
+Type: D Acc#: 1001 Fund: 7 Amount: 5442
+Type: D Acc#: 1001 Fund: 7 Amount: 6543
+Type: W Acc#: 1001 Fund: 7 Amount: 1000
+Type: T Acc#: 1001 Fund: 7 Amount: 54 Acc#: 1001 Fund: 5
+Type: W Acc#: 1001 Fund: 7 Amount: 20000 (failed)
+Value Fund: $0
+Value Stock Index: $0
+Printing Transaction History of: Williams Hank for fund: 500 Index Fund
+Type: D Acc#: 1253 Fund: 4 Amount: 10000
+Printing Transaction History for: Williams Hank By Fund
+Money Market: $10000
+Type: D Acc#: 1253 Fund: 0 Amount: 10000
+Prime Money Market: $10000
+Type: D Acc#: 1253 Fund: 1 Amount: 10000
+Long-Term Bond: $0
+Type: D Acc#: 1253 Fund: 2 Amount: 10000
+Type: W Acc#: 1253 Fund: 2 Amount: 10000
+Short-Term Bond: $5000
+Type: D Acc#: 1253 Fund: 3 Amount: 10000
+Type: W Acc#: 1253 Fund: 3 Amount: 5000
+500 Index Fund: $10000
+Type: D Acc#: 1253 Fund: 4 Amount: 10000
+Capital Value Fund: $10000
+Type: D Acc#: 1253 Fund: 5 Amount: 10000
+Growth Equity Fund: $10000
+Type: D Acc#: 1253 Fund: 6 Amount: 10000
+Growth Index Fund: $10000
+Type: D Acc#: 1253 Fund: 7 Amount: 10000
+Value Fund: $10000
+Type: D Acc#: 1253 Fund: 8 Amount: 10000
+Value Stock Index: $10000
+Type: D Acc#: 1253 Fund: 9 Amount: 10000
+Error: Acc#: 4356 Does Not Exist!
+Error: Acc#: 9876 Already exists!
+Done
+Error: Acc#: 1001 Already exists!
+Printing Transaction History for: Cash Johnny By Fund
+Money Market: $940
+Type: D Acc#: 1001 Fund: 0 Amount: 542
+Type: W Acc#: 1001 Fund: 0 Amount: 72
+Type: D Acc#: 1001 Fund: 0 Amount: 542
+Type: W Acc#: 1001 Fund: 0 Amount: 72
+Prime Money Market: $6084
+Type: D Acc#: 1001 Fund: 1 Amount: 1542
+Type: D Acc#: 1001 Fund: 1 Amount: 1500
+Type: D Acc#: 1001 Fund: 1 Amount: 1542
+Type: D Acc#: 1001 Fund: 1 Amount: 1500
+Long-Term Bond: $20884
+Type: D Acc#: 1001 Fund: 2 Amount: 5442
+Type: D Acc#: 1001 Fund: 2 Amount: 5000
+Type: D Acc#: 1001 Fund: 2 Amount: 5442
+Type: D Acc#: 1001 Fund: 2 Amount: 5000
+Short-Term Bond: $29080
+Type: D Acc#: 1001 Fund: 3 Amount: 7540
+Type: D Acc#: 1001 Fund: 3 Amount: 7000
+Type: D Acc#: 1001 Fund: 3 Amount: 7540
+Type: D Acc#: 1001 Fund: 3 Amount: 7000
+500 Index Fund: $0
+Capital Value Fund: $108
+Type: D Acc#: 1001 Fund: 5 Amount: 54
+Type: D Acc#: 1001 Fund: 5 Amount: 54
+Growth Equity Fund: $30106
+Type: D Acc#: 1001 Fund: 6 Amount: 7542
+Type: D Acc#: 1001 Fund: 6 Amount: 7576
+Type: W Acc#: 1001 Fund: 6 Amount: 65
+Type: D Acc#: 1001 Fund: 6 Amount: 7542
+Type: D Acc#: 1001 Fund: 6 Amount: 7576
+Type: W Acc#: 1001 Fund: 6 Amount: 65
+Growth Index Fund: $1862
+Type: D Acc#: 1001 Fund: 7 Amount: 5442
+Type: D Acc#: 1001 Fund: 7 Amount: 6543
+Type: W Acc#: 1001 Fund: 7 Amount: 1000
+Type: T Acc#: 1001 Fund: 7 Amount: 54 Acc#: 1001 Fund: 5
+Type: W Acc#: 1001 Fund: 7 Amount: 20000 (failed)
+Type: D Acc#: 1001 Fund: 7 Amount: 5442
+Type: D Acc#: 1001 Fund: 7 Amount: 6543
+Type: W Acc#: 1001 Fund: 7 Amount: 1000
+Type: T Acc#: 1001 Fund: 7 Amount: 54 Acc#: 1001 Fund: 5
+Type: W Acc#: 1001 Fund: 7 Amount: 20000
+Value Fund: $0
+Value Stock Index: $0
+Error: Acc#: 1253 Already exists!
+Printing Transaction History of: Williams Hank for fund: 500 Index Fund
+Type: D Acc#: 1253 Fund: 4 Amount: 10000
+Type: D Acc#: 1253 Fund: 4 Amount: 10000
+Printing Transaction History for: Williams Hank By Fund
+Money Market: $20000
+Type: D Acc#: 1253 Fund: 0 Amount: 10000
+Type: D Acc#: 1253 Fund: 0 Amount: 10000
+Prime Money Market: $20000
+Type: D Acc#: 1253 Fund: 1 Amount: 10000
+Type: D Acc#: 1253 Fund: 1 Amount: 10000
+Long-Term Bond: $0
+Type: D Acc#: 1253 Fund: 2 Amount: 10000
+Type: W Acc#: 1253 Fund: 2 Amount: 10000
+Type: D Acc#: 1253 Fund: 2 Amount: 10000
+Type: W Acc#: 1253 Fund: 2 Amount: 10000
+Short-Term Bond: $10000
+Type: D Acc#: 1253 Fund: 3 Amount: 10000
+Type: W Acc#: 1253 Fund: 3 Amount: 5000
+Type: D Acc#: 1253 Fund: 3 Amount: 10000
+Type: W Acc#: 1253 Fund: 3 Amount: 5000
+500 Index Fund: $20000
+Type: D Acc#: 1253 Fund: 4 Amount: 10000
+Type: D Acc#: 1253 Fund: 4 Amount: 10000
+Capital Value Fund: $20000
+Type: D Acc#: 1253 Fund: 5 Amount: 10000
+Type: D Acc#: 1253 Fund: 5 Amount: 10000
+Growth Equity Fund: $20000
+Type: D Acc#: 1253 Fund: 6 Amount: 10000
+Type: D Acc#: 1253 Fund: 6 Amount: 10000
+Growth Index Fund: $20000
+Type: D Acc#: 1253 Fund: 7 Amount: 10000
+Type: D Acc#: 1253 Fund: 7 Amount: 10000
+Value Fund: $20000
+Type: D Acc#: 1253 Fund: 8 Amount: 10000
+Type: D Acc#: 1253 Fund: 8 Amount: 10000
+Value Stock Index: $20000
+Type: D Acc#: 1253 Fund: 9 Amount: 10000
+Type: D Acc#: 1253 Fund: 9 Amount: 10000
+Error: Acc#: 4356 Does Not Exist!
+Error: Acc#: 9876 Already exists!
+Error: Acc#: 9876 Already exists!
